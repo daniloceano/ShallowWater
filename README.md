@@ -2,7 +2,7 @@
 
 2D Limited-area shallow-water model with nonlinear advection terms.
 
-The program was developed as an exercise during the course on Atmospherical Modelling, at the Department of Astronomy, Geosciences and Atmospherical Sciences of The University of São Paulo (USP), 2020.
+The program was developed as an exercise during the course on Atmospherical Modelling, at the Department of Astronomy, Geosciences and Atmospherical Sciences of The University of São Paulo (USP), ministrated by professor Pedro Leite da Silva Dias, 2020.
 
 The references for the formulas can be found at: Basic Numerical Methods in Meteorology and Oceanography, by Kristofer Döös, Peter Lundberg and Aitor Aldama Campino.
 
