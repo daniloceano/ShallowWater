@@ -14,5 +14,8 @@ The program core.py calls the subtourines:
 * diagnostic_eqs.py, for calculating the mass, velocty and vorticity fluxes
 * filters.py, for applying filters in order to dump computational modes that appear during model intergation
 * 4 distinct boundaries routines, that use distinct methods for calculating radation boundary conditions, i. e., allowing the solution to leave the computational domain
-*  ex5_plots.py, which  stores the model solution for a set of experiments and makes figures
+
+There are also:
+
+*  ex5_plots.py, which  stores the model solution provided by core.py and makes figures
 *  filme.py, which takes the outputs from ex5_plots.py and create animations
